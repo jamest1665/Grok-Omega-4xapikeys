@@ -1,0 +1,6 @@
+streamlit
+openai
+anthropic
+google-generativeai
+xai-sdk
+python-dotenv
